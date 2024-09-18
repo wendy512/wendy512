@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m a full stack developer, currently coding in Java and GoLang.
 - 💬 Be free to ask me about anything [here](https://github.com/wendy512/wendy512/issues).
 
-Life is a journey, not a destination. What matters is the scenery on the way and the mood while viewing it. Take your heart with you while making this journey. 
+NOTE: Life is a journey, not a destination. What matters is the scenery on the way and the mood while viewing it. Take your heart with you while making this journey. 
 
 ### My Contributions
 
