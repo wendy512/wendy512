@@ -1,6 +1,5 @@
 ### Hi, I'm Jeff.Tao. 👋
 
-- 🏢 I’m now working for [Hanyuan Technology](http://njhyst.com).
 - 👨🏻‍💻 I’m a full stack developer, currently coding in Java and GoLang.
 - 💬 Be free to ask me about anything [here](https://github.com/wendy512/wendy512/issues).
 
